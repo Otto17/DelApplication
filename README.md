@@ -33,25 +33,23 @@ _**Дополнительно:**_
 
 _Программа "WinSCP" для подключения через SCP, FTP, SFTP, S3 и WebDAV:_
 
-```plaintext
-(*.exe) - DelApplication /N "WinSCP" /KEY “/VERYSILENT”
-(*.exe) - DelApplication /PATH "C:\Users\user\AppData\Local\Programs\WinSCP\unins000.exe" /KEY “/VERYSILENT”
-(*.msi) - DelApplication /NAME "WinSCP" /K “/quiet”
-(*.msi) - DelApplication /R "MsiExec.exe /X{7F02DF31-4309-4D68-B740-C3ED6F48FF9C}" /K “/quiet”
-```
+*   [x] (\*.exe) - DelApplication /N "WinSCP" /KEY “/VERYSILENT”
+*   [x] (\*.exe) - DelApplication /PATH "C:\\Users\\user\\AppData\\Local\\Programs\\WinSCP\\unins000.exe" /KEY “/VERYSILENT”
+*   [x] (\*.msi) - DelApplication /NAME "WinSCP" /K “/quiet”
+*   [x] (\*.msi) - DelApplication /R "MsiExec.exe /X{7F02DF31-4309-4D68-B740-C3ED6F48FF9C}" /K “/quiet”
 
 _Программа "Samsung Magician" для работы с SSD:_
 
-> *   [x] DelApplication.exe /PATH "C:\\Program Files (x86)\\Samsung\\Samsung Magician\\unins000.exe" /KEY "/VERYSILENT /NORESTART"
+*   [x] DelApplication.exe /PATH "C:\\Program Files (x86)\\Samsung\\Samsung Magician\\unins000.exe" /KEY "/VERYSILENT /NORESTART"
 
 _Программа удалённого доступа "Ассистент":_
 
-> *   [x] DelApplication.exe /NAME "Ассистент" /K "/quiet"
+*   [x] DelApplication.exe /NAME "Ассистент" /K "/quiet"
 
 _Удаление конкретного файла или папки со всем её содержимым:_
 
-> *   [x] DelApplication.exe /DELETE “D:\\Шлак\\Тестовая папка\\tst OK\\DelApplication.pdb”
-> *   [x] DelApplication /D "C:\\Users\\Public\\Desktop\\Тестовая папка"
+*   [x] DelApplication.exe /DELETE “D:\\Шлак\\Тестовая папка\\tst OK\\DelApplication.pdb”
+*   [x] DelApplication /D "C:\\Users\\Public\\Desktop\\Тестовая папка"
 
 **Запуск программы без аргументов выведет справку.**
 

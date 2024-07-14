@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\bak\\DelApplication\\",
+  "WorkspaceRootPath": "D:\\bak\\\u0437\u0430\u0433\u0440\u0443\u0437\u0438\u043C\u043A\u0430\\DelApplication\\DelApplication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DE568BAB-ECC9-441D-A270-52F37D3735A1}|DelApplication.csproj|d:\\bak\\delapplication\\delapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DE568BAB-ECC9-441D-A270-52F37D3735A1}|DelApplication.csproj|d:\\bak\\\u0437\u0430\u0433\u0440\u0443\u0437\u0438\u043C\u043A\u0430\\delapplication\\delapplication\\delapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE568BAB-ECC9-441D-A270-52F37D3735A1}|DelApplication.csproj|solutionrelative:delapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "DelApplication.cs",
-              "DocumentMoniker": "D:\\bak\\DelApplication\\DelApplication.cs",
+              "DocumentMoniker": "D:\\bak\\\u0437\u0430\u0433\u0440\u0443\u0437\u0438\u043C\u043A\u0430\\DelApplication\\DelApplication\\DelApplication.cs",
               "RelativeDocumentMoniker": "DelApplication.cs",
-              "ToolTip": "D:\\bak\\DelApplication\\DelApplication.cs",
+              "ToolTip": "D:\\bak\\\u0437\u0430\u0433\u0440\u0443\u0437\u0438\u043C\u043A\u0430\\DelApplication\\DelApplication\\DelApplication.cs",
               "RelativeToolTip": "DelApplication.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-14T09:12:23.435Z",
               "EditorCaption": ""
